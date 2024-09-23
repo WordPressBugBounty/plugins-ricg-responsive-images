@@ -1,0 +1,1 @@
+# plugins-ricg-responsive-images
